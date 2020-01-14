@@ -1,5 +1,5 @@
-token=process.env.token
-owner=354716386716811264
+token=NjY2NTk1MjI0MDU0OTIzMzA0.Xh2dUg.ZjcZBMKP3gxOTQAezPwjDFkUlvw
+owner=638344260801789978
 prefix==
 game=Alpha Bots!
 stayinchannel=true
